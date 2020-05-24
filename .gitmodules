@@ -1,0 +1,3 @@
+[submodule "discord-compare"]
+	path = discord-compare
+	url = https://gitlab.com/yohlane/discord-compare
